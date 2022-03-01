@@ -1,0 +1,51 @@
+Mods: {
+	RogueLike: {
+		Perks: {
+			BareChested:
+			{
+				Name: Bare Chested
+				Description: Gain {0}% ({1}) of your defense as health regeneration per second, {2}% of which is uninterruptible. You have no defense.
+			}
+			EldrichRegeneration: 
+			{
+				Name: Eldrich Regeneration
+				Description: Converts all mana into health regeneration. You cannot use mana.
+			}
+			EnergyShield:
+			{
+				Name: Energy Shield
+				Description: Converts all health into mana. Damage taken is substracted from your mana pool instead of your health, until your mana reaches 0. Your health regeneration is instead applied to your mana. The Mana Flower is disabled.
+			}
+			ILikeAChallenge:
+			{
+				Name: I Like A Challenge!
+				Description: Hits with the Breaker Blade inflict bonus damage equals to 3 times the armor difference between you and the target.
+			}
+			IncreasedDamage:
+			{
+				Name: Increased Damage
+				Description: +{0}% increased damage.
+			}
+			IncreasedDefense:
+			{
+				Name: Increased Defense
+				Description: +{0} increased defense.
+			}
+			MaxHealthPerc:
+			{
+				Name: Increased Max Health
+				Description: +{0}% ({1}) max health.
+			}
+			MaxHealthRegenPerc:
+			{
+				Name: Increased Health Regeneration
+				Description: +{0}% ({1}) max health regeneration, {2}% of which is uninterruptible. Affected by your max health.
+			}
+			TripleShot: 
+			{
+				Name: Triple Shot
+				Description: Seed-based weapons shoot an extra 1 to 4 seeds.
+			}
+		}
+	}
+}
